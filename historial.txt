@@ -1,0 +1,20 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  pwd
+    5  whoami
+    6  ls
+    7  pwd
+    8  cd 
+    9  ls
+   10  cd repogit/
+   11  ls
+   12  git clone https://github.com/jdrojas00/repo_rojas
+   13  git clone https://github.com/jdrojas00/repo_rojas.git
+   14  git clone http://github.com/jdrojas00/repo_rojas.git
+   15  git clone
+   16  git clone https://github.com/jdrojas00/repo_rojas
+   17  cd repo_rojas/
+   18  ls
+   19  history
+   20  history > historial.txt
